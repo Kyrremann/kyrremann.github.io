@@ -10,29 +10,3 @@ permalink: pretty
 sass:
   sass_dir: _scss
   style: :compressed
-
-sites:
-  - title: "See what I'm coding here"
-    site:  github.com
-    url:   https://github.com/Kyrremann
-  - title: "Go here if your curious about my drinking habits"
-    site:  untappd.com
-    url:   https://untappd.com/user/Kyrremann
-  - title: "I've also started to brew my own beers!"
-    site:  tingtartid
-    url:   https://kyrremann.github.io/tingtartid
-  - title: "Speaking of beers, I've also made a state site based on Untappd data"
-    site: allmy.beer
-    url: https://allmy.beer/
-  - title: "An overview of my music listening habits"
-    site:  last.fm
-    url:   https://www.last.fm/user/Kyrremann
-  - title: "I also like to take pictures"
-    site:  instagram.com
-    url:   https://www.instagram.com/kyreri/
-  - title: "Want to hire me?"
-    site:  cv
-    url:   https://kyrremann.no/cv
-  - title: "My old and abandoned blog"
-    site:  2k3.org
-    url:   https://2k3.org
