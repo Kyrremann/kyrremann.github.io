@@ -1,24 +1,27 @@
 - title: "See what I'm coding here"
   site:  github.com
   url:   https://github.com/Kyrremann
-- title: "Go here if your curious about my drinking habits"
+- title: "I sometimes brew my own beers!"
+  site:  tingtartid.beer
+  url:   https://tingtartid.beer
+- title: "And if are your curious about my drinking habits"
   site:  untappd.com
   url:   https://untappd.com/user/Kyrremann
-- title: "I brew my own beers!"
-  site:  tingtartid
-  url:   https://kyrremann.github.io/tingtartid
-- title: "Speaking of beers, I've also made a stat site based on Untappd data"
+- title: "I've also made a stat site based on Untappd data"
   site: allmy.beer
   url: https://allmy.beer/
 - title: "An overview of my music listening habits"
   site:  last.fm
   url:   https://www.last.fm/user/Kyrremann
+- title: "And the concerts I've been to"
+  site:  Concert Vitae
+  url:   /concert-vitae/
 - title: "I also like to take pictures"
   site:  instagram.com
   url:   https://www.instagram.com/kyreri/
 - title: "Want to hire me?"
   site:  cv
   url:   /cv
-- title: "My old and abandoned blog"
+- title: "My old wordpress blog"
   site:  2k3.org
   url:   https://2k3.org
