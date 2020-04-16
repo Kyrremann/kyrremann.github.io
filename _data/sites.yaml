@@ -4,12 +4,15 @@
 - title: "I sometimes brew my own beers!"
   site:  tingtartid.beer
   url:   https://tingtartid.beer
+- title: "A showcase of different keebs I've designed and used"
+  site: Keebs
+  url: /keebs/
 - title: "And if are your curious about my drinking habits"
   site:  untappd.com
   url:   https://untappd.com/user/Kyrremann
 - title: "I've also made a stat site based on Untappd data"
-  site: allmy.beer
-  url: https://allmy.beer/
+  site: Beers
+  url: /beers/
 - title: "An overview of my music listening habits"
   site:  last.fm
   url:   https://www.last.fm/user/Kyrremann
