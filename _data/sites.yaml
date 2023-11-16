@@ -2,17 +2,17 @@
   site:  github.com
   url:   https://github.com/Kyrremann
 - title: "I sometimes brew my own beers!"
-  site:  tingtartid.beer
+  site:  /tingtartid/
   url:   https://tingtartid.beer
 - title: "A showcase of different keebs I've designed and used"
-  site: Keebs
-  url: /keebs/
+  site:  Keebs
+  url:   /keebs/
 - title: "And if are your curious about my drinking habits"
   site:  untappd.com
   url:   https://untappd.com/user/Kyrremann
 - title: "I've also made a stat site based on Untappd data"
-  site: Beers
-  url: /beers/
+  site:  Beers
+  url:   /beers/
 - title: "An overview of my music listening habits"
   site:  last.fm
   url:   https://www.last.fm/user/Kyrremann
@@ -25,6 +25,3 @@
 - title: "Want to hire me?"
   site:  cv
   url:   /cv
-- title: "My old wordpress blog"
-  site:  2k3.org
-  url:   https://2k3.org
