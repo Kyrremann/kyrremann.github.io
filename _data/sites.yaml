@@ -1,6 +1,9 @@
 - title: "See what I'm coding here"
   site:  github.com
   url:   https://github.com/Kyrremann
+- title: "I like to go bikepacking"
+  site: Bikepacking
+  url: /bikepacking/
 - title: "I sometimes brew my own beers!"
   site:  Ting Tar Tid
   url:   /tingtartid/
