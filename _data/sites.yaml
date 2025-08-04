@@ -1,19 +1,22 @@
-- title: "See what I'm coding here"
-  site:  github.com
-  url:   https://github.com/Kyrremann
-- title: "I like to go bikepacking"
+- title: "See pictures from my trips"
+  site: P[icture]log
+  url: /plog/
+- title: "I also write about my bikepacking"
   site: Bikepacking
   url: /bikepacking/
-- title: "I sometimes brew my own beers!"
+- title: "I sometimes brew my own beers and mead"
   site:  Ting Tar Tid
   url:   /tingtartid/
+- title: "At work, and in the spare time I code"
+  site:  github.com
+  url:   https://github.com/Kyrremann
 - title: "A showcase of different keebs I've designed and used"
   site:  Keebs
   url:   /keebs/
 - title: "And if are your curious about my drinking habits"
   site:  untappd.com
   url:   https://untappd.com/user/Kyrremann
-- title: "I've also made a stat site based on Untappd data"
+- title: "I've also made a stat site based on Untappd data (outdated)"
   site:  Beers
   url:   /beers/
 - title: "An overview of my music listening habits"
@@ -22,9 +25,6 @@
 - title: "And the concerts I've been to"
   site:  Concert Vitae
   url:   /concert-vitae/
-- title: "I also like to take pictures"
-  site:  instagram.com
-  url:   https://www.instagram.com/kyreri/
 - title: "Want to hire me? (outdated)"
   site:  cv
   url:   /cv
